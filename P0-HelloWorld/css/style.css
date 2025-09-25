@@ -23,6 +23,8 @@ html {
  *
  * Customize the background color to match your design.
  */
+body {background-color: #d9d2e9;}
+h1 {color: #351c75;}
 
 ::-moz-selection {
   background: #b3d4fc;
