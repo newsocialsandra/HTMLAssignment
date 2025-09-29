@@ -24,6 +24,33 @@ html {
  * Customize the background color to match your design.
  */
 
+body {
+  background-color: #0500AD;
+  background-image:url("/img/star-background.png");
+  background-size:cover;
+  background-position:center;
+  color:#fff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+h1 {
+  color: #FFBB00;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 64px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.text-brand-highlight {
+  color: #FFBB00;
+}
+
+.logo {
+  filter: invert(1);
+}
+
 ::-moz-selection {
   background: #b3d4fc;
   text-shadow: none;
