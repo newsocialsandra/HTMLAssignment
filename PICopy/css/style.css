@@ -43,6 +43,19 @@ h1 {
   text-transform: uppercase;
 }
 
+
+.nav {
+  font-size: 13.5px;
+  font-weight: bold;
+  line-height: 110%;
+  margin-right: 32px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 4px;
+}
+
 .text-brand-highlight {
   color: #FFBB00;
 }
